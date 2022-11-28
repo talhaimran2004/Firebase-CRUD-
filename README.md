@@ -6,7 +6,7 @@ An application that can perform CRUD operations
 
 ## Tech Stack
 
-HTML, TailwindCSS, Firebaase-Realtime-Database, Javascript
+HTML, TailwindCSS, Firebase-Realtime-Database, Javascript
 
 
 
